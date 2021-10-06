@@ -1,0 +1,20 @@
+h1 {
+  color: orange;
+  font-size: 200%;
+}
+
+p {
+  font-family: "comic sans";
+  text-indent: 20px;
+  margin-left: 20px;
+}
+
+#content {
+  background-color: #ccccc;
+  width: 500px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 1 px #444444;
+  font-size: 20px;
+}
