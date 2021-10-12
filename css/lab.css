@@ -1,6 +1,6 @@
 h1 {
-  color: orange;
-  font-size: 200%;
+  color: navy;
+  font-size: 250%;
 }
 
 p {
@@ -11,7 +11,7 @@ p {
 
 #content {
   background-color: #ccccc;
-  width: 500px;
+  width: 5000px;
   min-height: 300px;
   padding: 10px;
   margin: 10px;
