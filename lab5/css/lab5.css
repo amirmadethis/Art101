@@ -1,0 +1,54 @@
+h1 {
+  color: blue;
+  font-family: "comic sans";
+  font-size: 250%;
+  text-indent: 20px;
+}
+
+p {
+  font-family: "comic sans";
+  color: navy;
+  text-indent: 20px;
+  margin-left: 20px;
+  font-size: %200;
+}
+
+h2 {
+  color: blue;
+  font-family: "comic sans";
+  font-size: 250%;
+  text-indent: 20px;
+}
+
+p {
+  font-family: "comic sans";
+  color: navy;
+  text-indent: 20px;
+  margin-left: 20px;
+  font-size: %200;
+}
+
+h3 {
+  color: blue;
+  font-family: "comic sans";
+  font-size: 250%;
+  text-indent: 20px;
+}
+
+p {
+  font-family: "comic sans";
+  color: navy;
+  text-indent: 20px;
+  margin-left: 20px;
+  font-size: %200;
+}
+
+img{
+  background-color: #d4af37;
+  width: 750px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 1 px #444444;
+  font-size: 20px;
+}
