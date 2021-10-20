@@ -1,0 +1,37 @@
+img{
+  background-color: gold;
+  width: 750px;
+  min-height: 300px;
+  padding: 10px;
+  border: solid 1 px #;
+  font-size: 20px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+main#content h1,h2,h3{
+  font-family: "comic sans";
+  color: gold;
+  text-indent: 20px;
+  margin-left: 20px;
+  font-size: 250%;
+}
+main#content p{
+  font-family: "comic sans";
+  color: #FEFFE3;
+  text-indent: 40px;
+  margin-left: 20px;
+  font-size: 250%;
+}
+
+div.output {
+  font-family: "comic sans";
+  color: #FEFFE3;
+  margin-left: 40px;
+  font-size: 300%;
+
+}
+
+main{
+  background-color: #3e6451;
+}
