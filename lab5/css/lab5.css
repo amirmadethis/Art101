@@ -1,54 +1,31 @@
-h1 {
-  color: blue;
-  font-family: "comic sans";
-  font-size: 250%;
-  text-indent: 20px;
-}
-
-p {
-  font-family: "comic sans";
-  color: navy;
-  text-indent: 20px;
-  margin-left: 20px;
-  font-size: %200;
-}
-
-h2 {
-  color: blue;
-  font-family: "comic sans";
-  font-size: 250%;
-  text-indent: 20px;
-}
-
-p {
-  font-family: "comic sans";
-  color: navy;
-  text-indent: 20px;
-  margin-left: 20px;
-  font-size: %200;
-}
-
-h3 {
-  color: blue;
-  font-family: "comic sans";
-  font-size: 250%;
-  text-indent: 20px;
-}
-
-p {
-  font-family: "comic sans";
-  color: navy;
-  text-indent: 20px;
-  margin-left: 20px;
-  font-size: %200;
-}
-
 img{
-  background-color: #d4af37;
+  background-color: #A0522D;
   width: 750px;
   min-height: 300px;
   padding: 10px;
-  margin: 10px;
-  border: solid 1 px #444444;
+  margin: 20px;
+  border: solid 1 px #;
   font-size: 20px;
+}
+
+div#content h1,h2,h3{
+  font-family: "comic sans";
+  color: #A0522D;
+  text-indent: 20px;
+  margin-left: 20px;
+  font-size: %200;
+}
+div#content p{
+  font-family: "comic sans";
+  color: grey;
+  text-indent: 40px;
+  margin-left: 20px;
+  font-size: %200;
+}
+
+div.output {
+  font-family: "comic sans";
+  color: grey;
+  margin-left: 350px;
+  font-size: %200;
 }
