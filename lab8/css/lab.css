@@ -1,0 +1,26 @@
+main#content h1,h2,h3{
+  font-family: "comic sans";
+  color: gold;
+  text-indent: 20px;
+  margin-left: 20px;
+  font-size: 250%;
+}
+main#content p{
+  font-family: "comic sans";
+  color: #FEFFE3;
+  text-indent: 40px;
+  margin-left: 20px;
+  font-size: 250%;
+}
+
+div.output {
+  font-family: "comic sans";
+  color: #FEFFE3;
+  margin-left: 20px;
+  font-size: 300%;
+  text-indent: 40px;
+}
+
+main{
+  background-color: #3e6451;
+}
