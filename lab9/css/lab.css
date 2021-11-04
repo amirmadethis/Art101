@@ -1,0 +1,30 @@
+main#content h1,h2,h3{
+  font-family: "comic sans";
+  color: gold;
+  margin: 20px;
+  font-size: 250%;
+}
+main#content p{
+  font-family: "comic sans";
+  color: #FEFFE3;
+  margin: 30px;
+  font-size: 250%;
+}
+
+div#output{
+  border: solid 1px red;
+  margin: 30px;
+  background-color: lavender;
+  font-family: monospace;
+  font-size: 1.5em;
+}
+
+div.linkbox{
+  margin-left: 30px;
+  font-family: monospace;
+  font-size: 1.5em;
+}
+
+main{
+  background-color: #3e6451;
+}
