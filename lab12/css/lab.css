@@ -1,0 +1,43 @@
+main#content{
+  font-family: "comic sans";
+  color: tan;
+  font-size: 250%;
+}
+
+main#content h1,h2,h3{
+  color: gold;
+  margin: 20px;
+  font-size: 125%;
+}
+
+main#content h4{
+  color: tan;
+  margin: 20px;
+  font-size: 125%;
+}
+
+main#content p{
+  color: white;
+  margin: 40px;
+}
+
+img{
+  width: 550px;
+  min-height: 200px;
+  margin-left: 250px;
+}
+
+#q{
+  color: white;
+  margin: 40px;
+}
+
+
+div.linkbox{
+  color: white;
+  margin: 40px;
+}
+
+main{
+  background-color: brown;
+}
