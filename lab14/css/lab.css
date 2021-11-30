@@ -1,0 +1,32 @@
+h1{
+  color: orange;
+  font-size: 200%;
+}
+
+h2{
+  color: orange;
+  font-size: 200%;
+}
+
+h3{
+  color: orange;
+  font-size: 200%;
+}
+
+
+p{
+  color: white;
+  font-family: "comic sans";
+  text-identity: 20px;
+  margin-left:   10px;
+}
+
+#content{
+  background-color: #0E059C;
+  width: 1250px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 20px;
+  border: solid 4px #444444;
+  font-size: 20px;
+}
