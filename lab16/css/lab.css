@@ -1,0 +1,55 @@
+main#content{
+  font-family: "comic sans";
+  color: tan;
+  font-size: 250%;
+}
+
+main#content h1,h2,h3{
+  color: gold;
+  margin: 20px;
+  font-size: 125%;
+}
+
+main#content h4{
+  color: tan;
+  margin: 20px;
+  font-size: 125%;
+}
+
+main#content p{
+  color: white;
+  margin: 40px;
+}
+
+#bt{
+  margin-left:141px;
+}
+
+#output{
+  margin-left: 140px;
+  margin-top: 10px;
+}
+
+img{
+  border: 5px solid #FAFAD2;
+  width: 1050px;
+  min-height: 700px;
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#q{
+  color: white;
+  margin: 40px;
+}
+
+
+div.linkbox{
+  color: white;
+  margin: 40px;
+}
+
+main{
+  background-color: brown;
+}
