@@ -4,15 +4,27 @@
 // @author Amirarsalan.
 // @since  11.29.2021
 
-$("#bt").click(callAjax);
+var myUrlPre = "https://xkcd.com/";
+var myUrlPos = "/info.0.json";
+var n = "";
 
-var myUrl = "https://xkcd.com/info.0.json";
+$("#bt").click(callAjax);
+n = $("#bt").click(function(n){
+  // that gets the value of #input and assigns it to a variable name
+  n = $("#input").val();
+
+})
+
+  var url = myUrlPre + n + myUrlPos;
+console.log(url);
+
+
 
 function callAjax(){
   // Using the core $.ajax() method
   $.ajax({
       // The URL for the request (from the api docs)
-      url: myUrl,
+      url: url,
       // The data to send (will be converted to a query string)
       //data: {
               // here is where any data required by the api
